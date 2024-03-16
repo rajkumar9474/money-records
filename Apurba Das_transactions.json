@@ -1,0 +1,5 @@
+{"amount": 2000.0, "action": "credited", "product_name": "given by dada", "bill_softcopy_path": "", "date_time": "2024-01-01 09:20:44"}
+{"amount": 1000.0, "action": "credited", "product_name": "given by baba", "bill_softcopy_path": "", "date_time": "2024-01-03 09:21:00"}
+{"amount": -200.0, "action": "withdraw", "product_name": "to buy some essentials", "bill_softcopy_path": "", "date_time": "2024-02-29 16:04:51"}
+{"amount": 1000.0, "action": "credited", "product_name": "from baba", "bill_softcopy_path": "", "date_time": "2024-02-29 16:05:05"}
+{"amount": -500.0, "action": "withdraw", "product_name": "piknic to amrapali", "bill_softcopy_path": "", "date_time": "2024-03-15 11:50:39"}
